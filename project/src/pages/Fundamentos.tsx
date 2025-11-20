@@ -22,7 +22,7 @@ export default function Fundamentos() {
       definition: 'Integración de medios con diferentes tipologías para comunicar mensajes efectivos.',
     },
     {
-      name: 'Melesh',
+      name: 'Belloch',
       definition: 'Combinar medios, interactuar con el usuario, navegar y comunicar información de forma dinámica.',
     },
   ];
