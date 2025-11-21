@@ -127,7 +127,7 @@ export default function Fundamentos() {
       <footer className="bg-slate-800 text-white py-8 px-6">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-slate-300">
-            © 2025 Ingeniería Multimedia. Creatividad, tecnología e innovación.
+            © 2025 ECBTI UNAD. Paula Ximena Molano Vega 202456784_31, introducción a la ingeniería multimedia.
           </p>
         </div>
       </footer>
